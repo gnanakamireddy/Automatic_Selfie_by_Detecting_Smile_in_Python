@@ -1,1 +1,0 @@
-# Automatic_Selfie_by_Detecting_Smile_in_Python
